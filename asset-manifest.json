@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.0e506967.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.8df9e6e4.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.8df9e6e4.chunk.js.map",
-    "runtime~main.js": "/react-gh-pages/static/js/runtime~main.ac2d5040.js",
-    "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.ac2d5040.js.map",
-    "static/js/2.4c530373.chunk.js": "/react-gh-pages/static/js/2.4c530373.chunk.js",
-    "static/js/2.4c530373.chunk.js.map": "/react-gh-pages/static/js/2.4c530373.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.c14fd6fd562135282f88cc36f870c310.js": "/react-gh-pages/precache-manifest.c14fd6fd562135282f88cc36f870c310.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.0e506967.chunk.css.map": "/react-gh-pages/static/css/main.0e506967.chunk.css.map",
-    "static/media/burger-logo.png": "/react-gh-pages/static/media/burger-logo.b8503d26.png"
+    "main.css": "/burger-builder-basic/static/css/main.0e506967.chunk.css",
+    "main.js": "/burger-builder-basic/static/js/main.63b51eb6.chunk.js",
+    "main.js.map": "/burger-builder-basic/static/js/main.63b51eb6.chunk.js.map",
+    "runtime~main.js": "/burger-builder-basic/static/js/runtime~main.b1a6c5c9.js",
+    "runtime~main.js.map": "/burger-builder-basic/static/js/runtime~main.b1a6c5c9.js.map",
+    "static/js/2.4c530373.chunk.js": "/burger-builder-basic/static/js/2.4c530373.chunk.js",
+    "static/js/2.4c530373.chunk.js.map": "/burger-builder-basic/static/js/2.4c530373.chunk.js.map",
+    "index.html": "/burger-builder-basic/index.html",
+    "precache-manifest.f0d9641471ac7494078b3ffa3316e2b3.js": "/burger-builder-basic/precache-manifest.f0d9641471ac7494078b3ffa3316e2b3.js",
+    "service-worker.js": "/burger-builder-basic/service-worker.js",
+    "static/css/main.0e506967.chunk.css.map": "/burger-builder-basic/static/css/main.0e506967.chunk.css.map",
+    "static/media/burger-logo.png": "/burger-builder-basic/static/media/burger-logo.b8503d26.png"
   }
 }
